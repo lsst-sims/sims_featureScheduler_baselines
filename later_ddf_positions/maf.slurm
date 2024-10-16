@@ -13,7 +13,7 @@
 #SBATCH --mem-per-cpu=20g
 #
 #SBATCH --time=2-14:10:00
-#SBATCH --chdir=/sdf/data/rubin/shared/fbs_sims/sims_featureScheduler_baselines/later_ddf_positions
+#SBATCH --chdir=/sdf/group/rubin/web_data/sim-data/sims_featureScheduler_baselines/later_ddf_positions
 #SBATCH --mail-user=yoachim@uw.edu
 #
 ##turn on e-mail notification
