@@ -3,7 +3,7 @@
 #SBATCH --account=rubin:developers      # Account name
 #SBATCH --partition=milano
 #
-#SBATCH --job-name=later_ddf
+#SBATCH --job-name=early
 #SBATCH --output=output-%j.txt
 #SBATCH --error=output-%j.txt
 #
